@@ -1,0 +1,191 @@
+h1 {
+ color: black;
+}
+.intro{
+    display: flex;
+    background-color: cadetblue;
+    justify-content: center;
+    font-style:italic;
+    font-size: 20px;
+}
+.images{
+    display: flex;
+    background-color: lavenderblush;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.start{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 50px;
+    justify-content: center;
+    font-size: 20px;
+    font-style: italic;
+}
+.jammu{
+    display: flex;
+    background-color: lightgray;
+    margin-top: 10px;
+    justify-content:space-around;
+    font-size: 20px;
+    font-style:italic;  
+}
+.headingCulture{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 26px;
+    font-style: italic;
+}
+.culture{
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;
+    font-size: 22px;
+    font-style: italic;
+}
+.dress{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.headingFood{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 20px;
+    font-size: 26px;
+    font-style: italic;
+    justify-content: center;
+
+}
+.food1{
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.food2{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    
+}
+.food3{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    
+}
+.foodImg{
+    display: flex;
+    background-color: lightblue;
+    font-size: 24px;
+    font-style: italic;
+    justify-content: space-evenly;
+}
+.placesHeading{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 20px;
+    font-size: 26px;
+    font-style: italic;
+    justify-content: space-evenly;
+}
+.jk{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.places{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.places2{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.places3{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.places4{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.img{
+    display: flex;
+    background-color: lightblue;
+    font-size: 24px;
+    font-style: italic;
+    justify-content: space-evenly;
+}
+.moreKashmir{
+    display: flex;
+    background-color: lightblue;
+    margin-top: 20px;
+    font-size: 26px;
+    font-style: italic;
+    justify-content: space-evenly;
+}
+.jandk{
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 10px;
+}
+.moreImg{
+    display: flex;
+    background-color: lightgray;
+justify-content: space-evenly;
+}
+.poem{
+    display: flex;
+    background-color: cadetblue;
+    justify-content: space-evenly;
+    font-style:italic;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.thankyou{
+    display: flex;
+    background-color: ivory;
+    justify-content: center;
+    font-style: italic;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+
+
